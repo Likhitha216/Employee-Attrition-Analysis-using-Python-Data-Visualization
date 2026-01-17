@@ -62,19 +62,16 @@ Each analysis is visualized using clean and easy-to-understand graphs.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/employee-attrition-analysis.git
-Install required libraries:
-
+2.Install required libraries:
 pip install pandas matplotlib
 
-
-Run the Python file:
-
+3.Run the Python file:
 python analysis.py
-
 
 View the generated graphs in the output window.
 
-🎯 Learning Outcomes
+
+**🎯 Learning Outcomes**
 
 Gained hands-on experience with real-world HR data
 
@@ -82,7 +79,7 @@ Improved data visualization and analysis skills
 
 Learned how to extract meaningful insights from datasets
 
-🌟 Future Improvements
+**🌟 Future Improvements**
 
 Add interactive dashboards
 
@@ -90,8 +87,9 @@ Use Seaborn for advanced visualizations
 
 Apply Machine Learning models to predict attrition
 
-🙌 Acknowledgements
+**🙌 Acknowledgements**
 
 IBM HR Analytics Dataset
 
 Open-source Python community
+
